@@ -1,6 +1,8 @@
 #The CoWriter project: Teaching a robot to write
 
-A set of ROS nodes which facilitate the user interaction allowing a robot to be taught handwriting.
+A set of ROS nodes which facilitate the user interaction allowing a robot to be taught handwriting. Used in the implementation of [1].
+
+[1] [D. Hood, S. Lemaignan and P. Dillenbourg. When Children Teach a Robot to Write: An Autonomous Teachable Humanoid Which Uses Simulated Handwriting. 2015 Human-Robot Interaction Conference, Portand, USA, 2015.](http://infoscience.epfl.ch/record/204890/files/hood2015when.pdf?version=1)
 
 ![Photo of CoWriter interaction](https://github.com/chili-epfl/cowriter_letter_learning/raw/master/doc/cowriter_demo.jpg)
 
